@@ -1,0 +1,5 @@
+Username		Password
+sale		qwerrewq
+admin1		qwerre
+grocery		12345
+sales		12345
